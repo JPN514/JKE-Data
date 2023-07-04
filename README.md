@@ -1,2 +1,2 @@
 # JKE-Data
-Projects from my role at JKE. Including data cleaning and web scraping.
+Projects from my role at JK Equine(JKE). Including data cleaning, web scraping and data visualisation.
