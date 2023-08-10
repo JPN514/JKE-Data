@@ -734,7 +734,7 @@ def fix_eachway2():
 
 # RUN PROGRAM FROM HERE ::::
 # Note check format of odds in blog post for "/" or "-"
-blog = "https://jameskendall112.wixsite.com/jkequine/post/rainy"
+blog = ""
 #df = clean_existing_data()
 
 
